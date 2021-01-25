@@ -1,0 +1,11 @@
+Sakila: Name: Sakila, IP: 10.0.0.240, Socket:62159, Subjects:COEN445
+mark: Name: mark, IP: 10.5.0.2, Socket:49166, Subjects:COEN320
+kokoloko: Name: kokoloko, IP: 10.0.0.240, Socket:54431
+hu: Name: hu, IP: 10.0.0.240, Socket:58360
+sssss: Name: sssss, IP: 10.0.0.240, Socket:57667
+giegie: Name: giegie, IP: 10.0.0.240, Socket:50061
+sdfdfadf: Name: sdfdfadf, IP: 10.0.0.240, Socket:49671
+wwqdqadwqdq: Name: wwqdqadwqdq, IP: 10.0.0.240, Socket:56986
+eeeeew: Name: eeeeew, IP: 10.0.0.240, Socket:56987
+dsfgh: Name: dsfgh, IP: 10.0.0.240, Socket:8885
+sherby: Name: sherby, IP: 10.0.0.240, Socket:8889, Subjects:coen334
